@@ -4,7 +4,7 @@ Unsloth最近发布了Qwen3+GRPO教程，用代码直观理解GRPO的训练过�
 
 这里直接讲一下核心部分，全部代码可以参考：https://docs.unsloth.ai/basics/qwen3-how-to-run-and-fine-tune#grpo-with-qwen3
 
-也可以参考我写的中文注释版本：https://github.com/terminal-ai-course/PostTrain/blob/main/nb/Qwen3_(4B)-GRPO.ipynb
+也可以参考我写的中文注释版本：https://github.com/terminal-ai-course/PostTrain/blob/main/GRPO/Qwen3_(4B)-GRPO.ipynb
 
 建议：先粗看代码，再看解读，再精读代码
 
